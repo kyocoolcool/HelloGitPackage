@@ -1,0 +1,22 @@
+{
+  "name": "@kyocoolcool/hello-git-package",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyocoolcool/HelloGitPackage.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "kyocoolcool",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyocoolcool/HelloGitPackage/issues"
+  },
+  "homepage": "https://github.com/kyocoolcool/HelloGitPackage#readme"
+}
